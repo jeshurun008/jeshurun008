@@ -2,17 +2,17 @@
 
 # Jeshurun Pearl Daniel
 
-**Full-stack developer building useful products, backend systems, and developer tools.**
+**Full-stack developer · Backend engineering · Developer tools**
 
-Chennai, India · Open to full-time opportunities
+Chennai, India
 
-[Portfolio](https://github.com/jeshurun008/eunice-daniel-portfolio) · [LinkedIn](https://www.linkedin.com/in/jeshurun-pearl-daniel-1a4620328/) · [Email](mailto:jeshurundan@gmail.com)
+[GitHub](https://github.com/jeshurun008) · [Portfolio repository](https://github.com/jeshurun008/eunice-daniel-portfolio)
 
 </div>
 
 ---
 
-## What I work with
+## Building with
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,fastapi,postgres,mongodb,docker,git&perline=6" />
@@ -23,54 +23,49 @@ Chennai, India · Open to full-time opportunities
 **Data** — PostgreSQL, MongoDB, SQLite  
 **Tools** — Git, Docker, Postman, Vercel
 
----
-
-## Selected work
+## Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/jeshurun008/trackly">Trackly</a></h3>
-      A time-tracking and project-management app built for real workplace use, with reporting and push notifications.
+      <h3><a href="https://github.com/jeshurun008/unblock">Unblock</a></h3>
+      A Python CLI that surfaces repository workflow friction, inspects Git state, and checks selected authentication-token lifecycle patterns.
       <br/><br/>
-      <sub>React · TypeScript · Node.js · Express · PostgreSQL</sub>
+      <sub>Python · AST · Git · Typer · Rich</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/jeshurun008/unblock">Unblock</a></h3>
-      A developer CLI that diagnoses repository friction and detects JWT authentication lifecycle issues through AST analysis.
+      <h3><a href="https://github.com/jeshurun008/trackly">Trackly</a></h3>
+      A time-tracking and project-management application with team workflows, reporting, and push notifications.
       <br/><br/>
-      <sub>Python · AST · Git · CLI</sub>
+      <sub>React · TypeScript · Node.js · Express · PostgreSQL</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/jeshurun008/stock-sense">Stock Sense</a></h3>
-      An inventory forecasting app exploring demand prediction and reorder-point recommendations.
+      <h3><a href="https://github.com/jeshurun008/odoo-asset">Asset Management</a></h3>
+      An asset-management application with a React frontend and Python backend.
       <br/><br/>
-      <sub>Python · Streamlit · ARIMA · Prophet · LSTM</sub>
+      <sub>React · TypeScript · TanStack · Python</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/jeshurun008/signbridgeai">SignBridgeAI</a></h3>
-      An AI-focused project exploring accessible communication through sign-language technology.
+      <h3><a href="https://github.com/jeshurun008/stock-sense">Stock Sense</a></h3>
+      An inventory forecasting prototype comparing time-series approaches and generating reorder suggestions.
       <br/><br/>
-      <sub>AI · Web development</sub>
+      <sub>Python · Streamlit · ARIMA · Prophet · LSTM</sub>
     </td>
   </tr>
 </table>
 
----
+## About
 
-## A little about me
+Computer Science and Engineering student at Chennai Institute of Technology (2024–2028). I've completed two software development internships and enjoy building full-stack applications, backend services, and practical developer tools.
 
-I'm a Computer Science and Engineering student at Chennai Institute of Technology. I've completed two software development internships and enjoy taking projects from an idea to a working application.
-
-Currently interested in backend engineering, system design, developer tooling, and practical AI applications.
+Currently exploring backend engineering, system design, testing, and developer infrastructure.
 
 ---
 
 <div align="center">
 
-**Have an interesting problem to solve?**  
-[Let's talk](mailto:jeshurundan@gmail.com)
+*Interested in building something useful together?*
 
 </div>
