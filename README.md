@@ -48,10 +48,10 @@ Chennai, India
       <sub>React · TypeScript · TanStack · Python</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/jeshurun008/stock-sense">Stock Sense</a></h3>
-      An inventory forecasting prototype comparing time-series approaches and generating reorder suggestions.
+      <h3><a href="https://github.com/jeshurun008/skip">SKIP</a></h3>
+      A local-first, model-agnostic tool lifecycle engine that helps AI agents create, reuse, adapt, and restore project-specific tools.
       <br/><br/>
-      <sub>Python · Streamlit · ARIMA · Prophet · LSTM</sub>
+      <sub>Python · SQLite · Docker · AI agents · Developer tooling</sub>
     </td>
   </tr>
 </table>
